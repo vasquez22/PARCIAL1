@@ -1,0 +1,61 @@
+[{
+  "_id": 1,
+  "titulo": "Don Quijote de la Mancha I",
+  "editorial": "Amaya",
+  "autor": "Miguel de Cervantes",
+  "genero": "Caballeresco",
+  "paisautor": "España",
+  "npaginas": 517,
+  "aedicion": 1991,
+  "precio": 275
+},{
+  "_id": 2,
+  "titulo": "Don Quijote de la Mancha II",
+  "editorial": "Amaya",
+  "autor": "Miguel de Cervantes",
+  "genero": "Caballeresco",
+  "paisautor": "España",
+  "npaginas": 611,
+  "aedicion": 1991,
+  "precio": 3125
+},{
+  "_id": 3,
+  "titulo": "Historias de Nuevas Orleans",
+  "editorial": "Alfaguara",
+  "autor": "William Faulkner",
+  "genero": "Novela",
+  "paisautor": "Estados Unidos",
+  "npaginas": 186,
+  "aedicion": 1985,
+  "precio": 675
+},{
+  "_id": 4,
+  "titulo": "El Principito",
+  "editorial": "Adina",
+  "autor": "Antoine Saint Exupery",
+  "genero": "Aventura",
+  "paisautor": "Francia",
+  "npaginas": 120,
+  "aedicion": 1996,
+  "precio": 750
+},{
+  "_id": 5,
+  "titulo": "El Principe",
+  "editorial": "S.M.",
+  "autor": "Maquiavelo",
+  "genero": "Politico",
+  "paisautor": "Italia",
+  "npaginas": 210,
+  "aedicion": 1995,
+  "precio": 1125
+},{
+  "_id": 6,
+  "titulo": "Diplomacia",
+  "editorial": "S.M.",
+  "autor": "Henrry kissinger",
+  "genero": "Politico",
+  "paisautor": "Alemania",
+  "npaginas": 825,
+  "aedicion": 1997,
+  "precio": 1750
+}]
